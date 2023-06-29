@@ -1,25 +1,17 @@
-# PostgreSQL int53 domain extension
+# PostgreSQL types extension
 
 ## Install / update / drop
 
 ```
-CREATE EXTENSION IF NOT EXISTS softvisio_int53;
+CREATE EXTENSION IF NOT EXISTS softvisio_types;
 
-ALTER EXTENSION softvisio_int53 UPDATE;
+ALTER EXTENSION softvisio_types UPDATE;
 
-DROP EXTENSION IF EXISTS softvisio_int53;
+DROP EXTENSION IF EXISTS softvisio_types;
 ```
 
 ## Build
 
 ```
 gmake USE_PGXS=1 install
-```
-
-## Use
-
-```
-CREATE TABLE test (
-    id int53 PRIMARY KEY
-);
 ```
