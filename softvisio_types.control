@@ -1,0 +1,7 @@
+default_version = '1.0.0'
+comment = 'Additional types'
+requires = ''
+superuser = false
+# trusted = false
+module_pathname = ''
+relocatable = true
