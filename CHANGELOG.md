@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.0 (2024-02-02)
+
+Features:
+
+-   feat: int53 domain
+
 ### 1.0.3 (2024-02-02)
 
 Fixes:
