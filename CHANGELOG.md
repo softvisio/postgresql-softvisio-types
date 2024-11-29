@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.1.9 (2024-11-29)
+
+Other changes:
+
+- chore: lint
+
+[Compare with the previous release: v1.1.8 ... v1.1.9](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.1.8...v1.1.9)
+
 ### 1.1.8 (2024-10-20)
 
 No notable changes since the previous release.
