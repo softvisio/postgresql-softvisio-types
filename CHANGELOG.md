@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.1.10 (2024-12-07)
+
+Other changes:
+
+- chore: set yaml indent to 4 spaces
+
+[Compare with the previous release: v1.1.9 ... v1.1.10](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.1.9...v1.1.10)
+
 ### 1.1.9 (2024-11-29)
 
 Other changes:
