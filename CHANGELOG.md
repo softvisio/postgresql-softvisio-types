@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.1.11 (2025-02-19)
+
+Other changes:
+
+- chore: update cli config
+
+Compare with the previous release: [`v1.1.10...v1.1.11`](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.1.10...v1.1.11)
+
 ### 1.1.10 (2024-12-07)
 
 Other changes:
