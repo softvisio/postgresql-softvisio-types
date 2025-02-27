@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.1.13 (2025-02-27)
+
+Other changes:
+
+- chore: add editorconfig yaml
+
+Compare with the previous release: [`v1.1.12...v1.1.13`](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.1.12...v1.1.13)
+
 ### 1.1.12 (2025-02-26)
 
 Other changes:
