@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.14 (2025-06-07)
+
+**Other changes:**
+
+- \[PATCH] chore: update cli config (👬 zdm)
+
+Compare with the previous release: [v1.1.13](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.1.13...v1.1.14)
+
 ### 1.1.13 (2025-02-27)
 
 Other changes:
