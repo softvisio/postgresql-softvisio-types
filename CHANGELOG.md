@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.15 (2025-07-22)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [d6ea37f](https://github.com/softvisio/postgresql-softvisio-types/commit/d6ea37f); 👬 zdm)
+
+Compare with the previous release: [v1.1.14](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.1.14...v1.1.15)
+
 ### v1.1.14 (2025-06-07)
 
 **Other changes:**
