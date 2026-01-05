@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.17 (2026-01-05)
+
+**Other changes:**
+
+- chore: fix package name (● [9935335](https://github.com/softvisio/postgresql-softvisio-types/commit/9935335); 👬 zdm)
+
+Compare with the previous release: [v1.1.16](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.1.16...v1.1.17)
+
 ### v1.1.16 (2025-07-23)
 
 **Bug fixes:**
