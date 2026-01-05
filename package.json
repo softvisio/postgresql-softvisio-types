@@ -1,5 +1,5 @@
 {
-    "name": "postgresql-softvisio-types",
+    "name": "@softvisio/postgresql-softvisio-types",
     "version": "1.1.16",
     "private": true,
     "description": "PostgreSQL additional types extension",
