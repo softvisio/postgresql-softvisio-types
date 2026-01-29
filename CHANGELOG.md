@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.2.1 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v1.2.0](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.2.0...v1.2.1)
+
 ### v1.2.0 (2026-01-10)
 
 **New features:**
