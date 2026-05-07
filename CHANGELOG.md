@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.3 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [c02bf55](https://github.com/softvisio/postgresql-softvisio-types/commit/c02bf55); 👬 zdm)
+
+Compare with the previous release: [v1.2.2...v1.2.3](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.2.2...v1.2.3)
+
 ### v1.2.2 (2026-04-20)
 
 **Code refactoring:**
