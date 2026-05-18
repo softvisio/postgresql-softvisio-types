@@ -7,7 +7,7 @@
         "softvisio",
         "postgresql"
     ],
-    "homepage": "https://github.com/softvisio/postgresql-softvisio-types",
+    "homepage": "https://github.com/softvisio/postgresql-softvisio-types?tab=readme-ov-file#readme",
     "bugs": {
         "url": "https://github.com/softvisio/postgresql-softvisio-types/issues",
         "email": "root <root@softvisio.net>"
