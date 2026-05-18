@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.4 (2026-05-18)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [69d47a2](https://github.com/softvisio/postgresql-softvisio-types/commit/69d47a2); 👬 zdm)
+
+Compare with the previous release: [v1.2.3...v1.2.4](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.2.3...v1.2.4)
+
 ### v1.2.3 (2026-05-07)
 
 **Code refactoring:**
