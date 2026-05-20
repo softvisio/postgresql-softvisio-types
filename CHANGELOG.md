@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.5 (2026-05-20)
+
+**Other changes:**
+
+- docs: update (● [54daa1e](https://github.com/softvisio/postgresql-softvisio-types/commit/54daa1e); 👬 zdm)
+
+Compare with the previous release: [v1.2.4...v1.2.5](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.2.4...v1.2.5)
+
 ### v1.2.4 (2026-05-18)
 
 **Other changes:**
