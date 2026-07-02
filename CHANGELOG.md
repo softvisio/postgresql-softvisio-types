@@ -42,7 +42,7 @@ Compare with the previous release: [v1.2.0](https://github.com/softvisio/postgre
 
 **New features:**
 
-- \[MINOR] feat: add lo_size() function (● [bbb339b](https://github.com/softvisio/postgresql-softvisio-types/commit/bbb339b), [bc28fa0](https://github.com/softvisio/postgresql-softvisio-types/commit/bc28fa0); 👬 zdm)
+- \[MINOR] feat: add lo\_size() function (● [bbb339b](https://github.com/softvisio/postgresql-softvisio-types/commit/bbb339b), [bc28fa0](https://github.com/softvisio/postgresql-softvisio-types/commit/bc28fa0); 👬 zdm)
 
 Compare with the previous release: [v1.1.17](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.1.17...v1.2.0)
 
