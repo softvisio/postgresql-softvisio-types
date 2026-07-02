@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.6 (2026-07-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [ce90016](https://github.com/softvisio/postgresql-softvisio-types/commit/ce90016); 👬 zdm)
+
+Compare with the previous release: [v1.2.5...v1.2.6](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.2.5...v1.2.6)
+
 ### v1.2.5 (2026-05-20)
 
 **Other changes:**
