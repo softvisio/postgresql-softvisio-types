@@ -4,7 +4,6 @@
     "private": true,
     "description": "PostgreSQL additional types extension",
     "keywords": [
-        "softvisio",
         "postgresql"
     ],
     "homepage": "https://github.com/softvisio/postgresql-softvisio-types?tab=readme-ov-file#readme",
