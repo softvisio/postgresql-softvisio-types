@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.7 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [d24383d](https://github.com/softvisio/postgresql-softvisio-types/commit/d24383d); 👬 zdm)
+
+Compare with the previous release: [v1.2.6...v1.2.7](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.2.6...v1.2.7)
+
 ### v1.2.6 (2026-07-02)
 
 **Bug fixes:**
