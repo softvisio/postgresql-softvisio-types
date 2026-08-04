@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.8 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [76ba0f2](https://github.com/softvisio/postgresql-softvisio-types/commit/76ba0f2); 👬 zdm)
+
+Compare with the previous release: [v1.2.7...v1.2.8](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.2.7...v1.2.8)
+
 ### v1.2.7 (2026-08-01)
 
 **Other changes:**
