@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.1 (2026-09-14)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix function drop (● [03c738b](https://github.com/softvisio/postgresql-softvisio-types/commit/03c738b); 👬 zdm)
+
+Compare with the previous release: [v1.4.0...v1.4.1](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.4.0...v1.4.1)
+
 ### v1.4.0 (2026-09-06)
 
 **New features:**
