@@ -3,7 +3,7 @@
 \echo 'ALTER EXTENSION softvisio_types UPDATE;'
 \echo \quit
 
-DROP FUNCTION lo_size ( oid );
+DROP FUNCTION IF EXISTS lo_size ( oid );
 
 CREATE OR REPLACE FUNCTION lo_size ( lo_oid oid ) RETURNS int53 STABLE AS $$
 DECLARE
