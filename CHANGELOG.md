@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.2 (2026-09-14)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix types patch (● [7b2b29d](https://github.com/softvisio/postgresql-softvisio-types/commit/7b2b29d); 👬 zdm)
+
+Compare with the previous release: [v1.4.1...v1.4.2](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.4.1...v1.4.2)
+
 ### v1.4.1 (2026-09-14)
 
 **Bug fixes:**
