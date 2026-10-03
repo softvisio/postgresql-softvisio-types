@@ -1,5 +1,18 @@
 # Changelog
 
+### v1.4.4 (2026-10-03)
+
+**Other changes:**
+
+- build(release): release 1.4.4 (● [c0caaf5](https://github.com/softvisio/postgresql-softvisio-types/commit/c0caaf5); 👬 zdm)
+
+    - add 1.4.3 -> 1.4.4 upgrade script
+    - set default extension version to 1.4.4
+
+- docs: correct escaped snake_case in md (● [146f5fc](https://github.com/softvisio/postgresql-softvisio-types/commit/146f5fc); 👬 zdm)
+
+Compare with the previous release: [v1.4.3...v1.4.4](https://github.com/softvisio/postgresql-softvisio-types/compare/v1.4.3...v1.4.4)
+
 ### v1.4.3 (2026-09-14)
 
 **Bug fixes:**
