@@ -9,7 +9,8 @@ DATA =	\
 	softvisio_types--1.4.0.sql \
 	softvisio_types--1.4.0--1.4.1.sql \
 	softvisio_types--1.4.1--1.4.2.sql \
-	softvisio_types--1.4.2--1.4.3.sql
+	softvisio_types--1.4.2--1.4.3.sql \
+	softvisio_types--1.4.3--1.4.4.sql
 
 PG_CONFIG = pg_config
 PGXS := $(shell $(PG_CONFIG) --pgxs)
